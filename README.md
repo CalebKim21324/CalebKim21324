@@ -2,6 +2,9 @@
 
 My name is Caleb Kim and I am currently attending the Ohio State University as a Computer Science and Engineering major. On this page, you will find some of my personal/group projects.
 
+💻 Technologies I use
+HTML5 CSS3 Bootstrap TailwindCSS JavaScript React
+
 <!--
 **CalebKim21324/CalebKim21324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
