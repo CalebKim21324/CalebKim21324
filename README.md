@@ -1,4 +1,4 @@
-<h1 align="left">Hey, I'm Caleb Kim</h1>
+<h1 align="left">Caleb Kim</h1>
 
 - 🔭 Attending **the Ohio State University**
 
