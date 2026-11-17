@@ -1,8 +1,6 @@
 <h1 align="left">Caleb Kim</h1>
 
-- 🔭 Attending **the Ohio State University**
-
-- 🌱 I’m currently learning **Foundations and Systems Courses**
+-  Attended **the Ohio State University**
 
 - 📫 Reach out to: **calebkim21324@gmail.com**
 
